@@ -1,0 +1,27 @@
+## Interface: 16001
+## Title: Spawnscout
+## Notes: Shows where players of your level gain experience fastest right now and where mobs are not tagged by others.
+## Notes-ruRU: Показывает, где игроки вашего уровня сейчас быстрее всего получают опыт и где мобов не разобрали другие.
+## Author: MRAktiv
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Ability_Tracking
+## Category-enUS: Map & Minimap
+## Category-ruRU: Карта и миникарта
+## SavedVariables: SpawnscoutDB
+
+embeds.xml
+
+Locales\enUS.lua
+Locales\ruRU.lua
+
+Logic.lua
+Init.lua
+Layer.lua
+Measure.lua
+Net.lua
+UI.lua
+MapPins.lua
+Pins.xml
+Options.lua
+Diag.lua
+Core.lua
