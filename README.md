@@ -1,5 +1,7 @@
 # Spawnscout
 
+Download: [CurseForge](https://www.curseforge.com/wow/addons/spawnscout)
+
 Spawnscout shows where players of your level are gaining experience fastest right now and how crowded those spots are.
 
 Mobs in Forever belong to whoever tags them first, so a popular spot can be full long before you get there. Spawnscout collects live reports from other players with the addon and shows you the spots that are worth the trip.
@@ -36,6 +38,8 @@ Spawnscout exchanges data with other copies of the addon through a hidden chat c
 - Languages: English and Russian.
 
 ## На русском
+
+Скачать: [CurseForge](https://www.curseforge.com/wow/addons/spawnscout)
 
 Spawnscout показывает, где игроки вашего уровня сейчас быстрее всего получают опыт и насколько там тесно.
 
